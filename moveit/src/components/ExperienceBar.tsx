@@ -1,7 +1,7 @@
 export function ExperienceBar() {
   return (
     <header className="experience-bar">
-      <span>0px</span>
+      <span>0xp</span>
       <div>
         <div style={{ width: "50%" }} />
 
@@ -9,7 +9,7 @@ export function ExperienceBar() {
           300xp
         </span>
       </div>
-      <span>600px</span>
+      <span>600xp</span>
     </header>
   );
 }

@@ -6,7 +6,11 @@ export function Profile(){
 
       <div>
         <strong>Allysson Ribeiro</strong>
-        <p>Level 1</p>
+        <p>
+          <img src="./icons/level.svg" alt="Nivel"/>
+          Nivel 1
+          </p>
+
       </div>
     </div>
   );
